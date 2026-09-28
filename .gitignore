@@ -19,3 +19,6 @@ Thumbs.db
 data/*.csv
 data/*.zip
 data/*.pcap
+
+#Trained machine learning models 
+models/
